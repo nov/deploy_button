@@ -2,7 +2,6 @@
   "name": "deploy_botton",
   "description": "Deploy Button Demo",
   "repository": "https://github.com/nov/deploy_botton",
-  "logo": "http://matake.jp/images/me.jpg",
   "keywords": ["nov", "demo", "heroku deploy button"],
   "scripts": {
     "postdeploy": "bundle exec rake db:migrate"
